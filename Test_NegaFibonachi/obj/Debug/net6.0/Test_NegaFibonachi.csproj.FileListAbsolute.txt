@@ -1,0 +1,15 @@
+C:\Users\ДРЁМИНЫ\Desktop\DZ_C6\Test_NegaFibonachi\obj\Debug\net6.0\Test_NegaFibonachi.csproj.AssemblyReference.cache
+C:\Users\ДРЁМИНЫ\Desktop\DZ_C6\Test_NegaFibonachi\obj\Debug\net6.0\Test_NegaFibonachi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ДРЁМИНЫ\Desktop\DZ_C6\Test_NegaFibonachi\obj\Debug\net6.0\Test_NegaFibonachi.AssemblyInfoInputs.cache
+C:\Users\ДРЁМИНЫ\Desktop\DZ_C6\Test_NegaFibonachi\obj\Debug\net6.0\Test_NegaFibonachi.AssemblyInfo.cs
+C:\Users\ДРЁМИНЫ\Desktop\DZ_C6\Test_NegaFibonachi\obj\Debug\net6.0\Test_NegaFibonachi.csproj.CoreCompileInputs.cache
+C:\Users\ДРЁМИНЫ\Desktop\DZ_C6\Test_NegaFibonachi\bin\Debug\net6.0\Test_NegaFibonachi.exe
+C:\Users\ДРЁМИНЫ\Desktop\DZ_C6\Test_NegaFibonachi\bin\Debug\net6.0\Test_NegaFibonachi.deps.json
+C:\Users\ДРЁМИНЫ\Desktop\DZ_C6\Test_NegaFibonachi\bin\Debug\net6.0\Test_NegaFibonachi.runtimeconfig.json
+C:\Users\ДРЁМИНЫ\Desktop\DZ_C6\Test_NegaFibonachi\bin\Debug\net6.0\Test_NegaFibonachi.dll
+C:\Users\ДРЁМИНЫ\Desktop\DZ_C6\Test_NegaFibonachi\bin\Debug\net6.0\Test_NegaFibonachi.pdb
+C:\Users\ДРЁМИНЫ\Desktop\DZ_C6\Test_NegaFibonachi\obj\Debug\net6.0\Test_NegaFibonachi.dll
+C:\Users\ДРЁМИНЫ\Desktop\DZ_C6\Test_NegaFibonachi\obj\Debug\net6.0\refint\Test_NegaFibonachi.dll
+C:\Users\ДРЁМИНЫ\Desktop\DZ_C6\Test_NegaFibonachi\obj\Debug\net6.0\Test_NegaFibonachi.pdb
+C:\Users\ДРЁМИНЫ\Desktop\DZ_C6\Test_NegaFibonachi\obj\Debug\net6.0\Test_NegaFibonachi.genruntimeconfig.cache
+C:\Users\ДРЁМИНЫ\Desktop\DZ_C6\Test_NegaFibonachi\obj\Debug\net6.0\ref\Test_NegaFibonachi.dll
